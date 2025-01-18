@@ -1,9 +1,13 @@
 const { app } = require("@azure/functions");
 const fs = require("fs").promises;
+const path = require("path");
 
 async function load_recipes() {
   try {
-    const data = await fs.readFile(__dirname + "/recipes.json", "utf-8");
+    const data = await fs.readFile(
+      path.join(__dirname, "../recipes.json"),
+      "utf-8"
+    );
     return JSON.parse(data);
   } catch (error) {
     throw new Error("Fehler beim Laden der Rezeptdatei: " + error.message);
