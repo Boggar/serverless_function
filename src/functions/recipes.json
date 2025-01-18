@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Würzige indische Kartoffelpfanne",
+    "ingredients": ["Kartoffeln", "Kurkuma", "Chili", "Zwiebeln", "Knoblauch", "Kokosöl"],
+    "cuisine": "indisch",
+    "diet": "vegan",
+    "prepTime": 25,
+    "steps": [
+      "Kartoffeln schälen und würfeln.",
+      "In einer Pfanne Kokosöl erhitzen und Zwiebeln sowie Knoblauch anbraten.",
+      "Kartoffeln hinzufügen und mit Kurkuma, Chili und Salz würzen.",
+      "15 Minuten köcheln lassen, bis die Kartoffeln gar sind."
+    ]
+  },
+  {
+    "name": "Pasta al Pomodoro",
+    "ingredients": ["Pasta", "Tomaten", "Knoblauch", "Basilikum", "Olivenöl"],
+    "cuisine": "italienisch",
+    "diet": "vegetarisch",
+    "prepTime": 20,
+    "steps": [
+      "Pasta kochen, bis sie al dente ist.",
+      "In einer Pfanne Olivenöl erhitzen und Knoblauch anbraten.",
+      "Tomaten hinzufügen und köcheln lassen, bis eine Sauce entsteht.",
+      "Pasta zur Sauce geben, mit Basilikum garnieren und servieren."
+    ]
+  },
+  {
+    "name": "Thai-Curry mit Gemüse",
+    "ingredients": ["Kokosmilch", "Rote Currypaste", "Paprika", "Brokkoli", "Karotten", "Ingwer", "Limette"],
+    "cuisine": "thailändisch",
+    "diet": "vegan",
+    "prepTime": 30,
+    "steps": [
+      "Gemüse waschen und in mundgerechte Stücke schneiden.",
+      "In einem Topf Kokosmilch erhitzen und rote Currypaste einrühren.",
+      "Ingwer reiben und hinzufügen.",
+      "Das Gemüse hinzufügen und 15 Minuten köcheln lassen.",
+      "Mit Limettensaft abschmecken und servieren."
+    ]
+  },
+  {
+    "name": "Quinoa-Salat mit Avocado und Mango",
+    "ingredients": ["Quinoa", "Avocado", "Mango", "Rucola", "Limettensaft", "Olivenöl"],
+    "cuisine": "fusion",
+    "diet": "vegan",
+    "prepTime": 20,
+    "steps": [
+      "Quinoa nach Packungsanweisung kochen und abkühlen lassen.",
+      "Mango und Avocado würfeln.",
+      "Alle Zutaten in einer Schüssel vermischen.",
+      "Mit Limettensaft und Olivenöl abschmecken."
+    ]
+  },
+  {
+    "name": "Kichererbsen-Curry",
+    "ingredients": ["Kichererbsen", "Tomaten", "Kokosmilch", "Zwiebeln", "Knoblauch", "Currypulver", "Koriander"],
+    "cuisine": "indisch",
+    "diet": "vegan",
+    "prepTime": 25,
+    "steps": [
+      "Zwiebeln und Knoblauch in einer Pfanne mit etwas Öl anbraten.",
+      "Tomaten und Currypulver hinzufügen und kurz mitbraten.",
+      "Kichererbsen und Kokosmilch dazugeben und 10 Minuten köcheln lassen.",
+      "Mit frischem Koriander garnieren und servieren."
+    ]
+  },
+  {
+    "name": "Griechischer Salat",
+    "ingredients": ["Tomaten", "Gurke", "rote Zwiebeln", "Feta", "Oliven", "Oregano", "Olivenöl"],
+    "cuisine": "griechisch",
+    "diet": "vegetarisch",
+    "prepTime": 15,
+    "steps": [
+      "Tomaten, Gurke und rote Zwiebeln in Scheiben schneiden.",
+      "Feta würfeln und hinzufügen.",
+      "Oliven, Oregano und Olivenöl darüber geben und vorsichtig vermengen."
+    ]
+  },
+  {
+    "name": "Süßkartoffel-Fries mit Dip",
+    "ingredients": ["Süßkartoffeln", "Olivenöl", "Paprikapulver", "Knoblauchpulver", "Joghurt", "Zitronensaft", "Petersilie"],
+    "cuisine": "modern",
+    "diet": "vegetarisch",
+    "prepTime": 35,
+    "steps": [
+      "Süßkartoffeln in Stifte schneiden und mit Olivenöl, Paprikapulver und Knoblauchpulver vermengen.",
+      "Bei 200°C im Ofen 25 Minuten backen.",
+      "Für den Dip Joghurt mit Zitronensaft und gehackter Petersilie verrühren.",
+      "Die Fries mit dem Dip servieren."
+    ]
+  },
+  {
+    "name": "Avocado und Mango",
+    "ingredients": ["Avocado", "Mango"],
+    "cuisine": "fusion",
+    "diet": "vegan",
+    "prepTime": 20,
+    "steps": [
+      "Mango und Avocado würfeln.",
+      "Alle Zutaten in einer Schüssel vermischen."
+    ]
+  }
+]
+
